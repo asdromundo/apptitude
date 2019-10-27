@@ -1,0 +1,9 @@
+{
+  "clientId": "f99e6080-748a-4181-bebf-4820f350a886",
+  "profilesUrl": "https://us-south.appid.cloud.ibm.com",
+  "secret": "M2ZjNjUzMDEtMzIxZC00MjYwLWJiNTQtMTNhMDQ3NzY0NTFm",
+  "tenantId": "9126421b-7c2e-49a8-8fe3-9be9680dd7e4",
+  "redirectUri": "http://localhost:3000/ibm/cloud/appid/callback",
+  "version": 4,
+  "appidServiceEndpoint": "https://us-south.appid.cloud.ibm.com"
+}
