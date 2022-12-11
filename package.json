@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "cfenv": "^1.0.3",
-    "express": "^4.13.4",
+    "express": "^4.17.3",
     "express-session": "^1.15.1",
     "ibmcloud-appid": "^6.0.0",
     "jquery.json-viewer": "^1.1.0",
